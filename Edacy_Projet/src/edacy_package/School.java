@@ -1,6 +1,4 @@
 package edacy_package;
-
-import java.util.ArrayList;
 //la classe Schoool
 public class School {
 
